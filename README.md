@@ -1,2 +1,21 @@
-# sql-practice
-This repository will contain practice code for SQL
+# SQL Course compilation
+This repository will contain practice code for SQL:
+
+- Examples
+- Projects
+- Queries
+
+## Examples
+
+### Example 1: Selecting data from a table
+
+To select all columns from a table named 'employees', you can use the following SQL query:
+
+```sql
+select * from emplyees:
+```
+### Example 2: selecting specific columns from a table 
+
+## Projects
+
+## Queries
